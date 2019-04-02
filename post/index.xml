@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mingliang&#39;s Blog</title>
+    <link>https://mingliang.pro/post/</link>
+    <description>Recent content in Posts on Mingliang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 02 Apr 2019 17:23:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://mingliang.pro/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://mingliang.pro/blog/2019-04-02-first-blog-post/</link>
+      <pubDate>Tue, 02 Apr 2019 17:23:10 +0800</pubDate>
+      
+      <guid>https://mingliang.pro/blog/2019-04-02-first-blog-post/</guid>
+      <description>Blog 终于和大家见面了。
+我将在这里和大家分享工作、学习中遇到的问题、解决方案、知识点等。分享的内容不限于 PHP，还会涉及 C，Go，Rust 等语言。包括：框架、组件、包管理、PHP 内核、扩展开发、工具等多个方向。
+欢迎大家评论和留言。</description>
+    </item>
+    
+  </channel>
+</rss>

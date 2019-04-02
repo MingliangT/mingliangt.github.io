@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingliang&#39;s Blog</title>
+    <link>https://mingliang.pro/</link>
+    <description>Recent content on Mingliang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 02 Apr 2019 17:23:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://mingliang.pro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://mingliang.pro/blog/2019-04-02-first-blog-post/</link>
+      <pubDate>Tue, 02 Apr 2019 17:23:10 +0800</pubDate>
+      
+      <guid>https://mingliang.pro/blog/2019-04-02-first-blog-post/</guid>
+      <description>Blog 终于和大家见面了。
+我将在这里和大家分享工作、学习中遇到的问题、解决方案、知识点等。分享的内容不限于 PHP，还会涉及 C，Go，Rust 等语言。包括：框架、组件、包管理、PHP 内核、扩展开发、工具等多个方向。
+欢迎大家评论和留言。</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://mingliang.pro/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mingliang.pro/about/</guid>
+      <description>Hi, My name is Mingliang Tan, write in chinese is 谈明亮. Steven Tan is my english name. I&amp;rsquo;m a LAMP stack expert from Beijing, China.
+Now I&amp;rsquo;m working for DiDiGlobal from 2016/09. Before that, I was working for Baidu from 2013/01 to 2016/09.
+I love PHP and I mainly focus on the php framework and internal. Therefore, a big part of my job at DiDiGlobal is to develop framework, components, middleware, php extensions, code refactoring and performance optimization.</description>
+    </item>
+    
+    <item>
+      <title>All Posts</title>
+      <link>https://mingliang.pro/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mingliang.pro/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://mingliang.pro/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mingliang.pro/license/</guid>
+      <description>This work is licensed under a Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+本博客的所有原创作品采用 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)。本博客属个人所有，不涉及商业目的。你可以转载本博客的作品，但请加入文章作者和出处。未经允许，转载不得用于赢利目的。</description>
+    </item>
+    
+  </channel>
+</rss>
