@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mingliang&#39;s Blog</title>
@@ -6,10 +6,30 @@
     <description>Recent content on Mingliang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 02 Apr 2019 17:23:10 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 17:23:10 +0800</lastBuildDate>
     
 	<atom:link href="https://mingliang.pro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020 以梦为马，不负韶华</title>
+      <link>https://mingliang.pro/blog/2020-01-23-2020-%E4%BB%A5%E6%A2%A6%E4%B8%BA%E9%A9%AC%E4%B8%8D%E8%B4%9F%E9%9F%B6%E5%8D%8E/</link>
+      <pubDate>Thu, 23 Jan 2020 17:23:10 +0800</pubDate>
+      
+      <guid>https://mingliang.pro/blog/2020-01-23-2020-%E4%BB%A5%E6%A2%A6%E4%B8%BA%E9%A9%AC%E4%B8%8D%E8%B4%9F%E9%9F%B6%E5%8D%8E/</guid>
+      <description>2019 年是一个忙碌的一年，有得有失，整体还算比较满意。
+工作 19 年是工作以来最忙的一年，除了负责团队内事务，还重点参与 H&amp;amp;B 两个项目。
+期间读过一本书《能力陷阱》，有句话分享下：
+ 我们很乐于去做那些我们擅长的事，于是就会一直去做，最终就使得我们会一直擅长那些事。做得越多，就越擅长，越擅长就越愿意去做。这样的一个循环能让我们在这方面获得更多的经验，但却容易陷入能力陷阱，在其他方面无法突破。
+ 回顾过去的职业规划，一方面在培养核心竞争力，另一方面在避免能力陷阱。不断的学习、打开见识、打破自己的舒适区。
+技术  PHP &amp;amp; Go &amp;amp; Rust  前几年一直关注 PHP 和 Go 领域，但在 PHP 生态、框架、组件、语言实现（内核）等方向花的时间比较多，加上几个扩展的开发经历，对 PHP 了解也越来越深入。
+18 年中开始，逐步加大对 Go、Rust、系统架构等领域的关注度。PHP 内核会作为兴趣，持续关注、学习、应用。Go 重点关注 Gin 主流框架，不会在其他框架、组件等花费太多的精力，集中精力在 Go 底层实现（语言原理都是相通的，学习迁移）、Go 应用方向（K8s）。
+Rust 作为一门感兴趣的语言，保持熟悉度，以后会用上，现开发一些工具练手。
+在公司内，尽量采用开源实现，避免重复造轮。在使用开源的同时，也鼓励回源（反馈）开源。
+ HTTP/2  找机会学习下 HTTP/2，发现 HTTP/2 针对 HTTP/1.* 做了很多改进，像二进制协议、多路复用、首部压缩、Server Push 等特性，很有升级的价值。
+很多 HTTP 请求都是短连接，每个请求的响应体不大，即使带宽很大，由于 TCP 拥塞窗口、慢启动等设计，协商的过程中还没等量起来响应就发送完，往往不能充分利用大带宽的优势。
+由于多种原因，特别是 TCP 属于内核，UDP 属于用户态，为了获得更多的控制权，HTTP/3 QUIC 不在使用 TCP 而是基于 UDP 实现 TCP 栈，作为底层传输层协议。</description>
+    </item>
     
     <item>
       <title>First Blog Post</title>
@@ -28,9 +48,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mingliang.pro/about/</guid>
-      <description>Hi, My name is Mingliang Tan, write in chinese is 谈明亮. Steven Tan is my english name. I&amp;rsquo;m a LAMP stack expert from Beijing, China.
-Now I&amp;rsquo;m working for DiDiGlobal from 2016/09. Before that, I was working for Baidu from 2013/01 to 2016/09.
-I love PHP and I mainly focus on the php framework and internal. Therefore, a big part of my job at DiDiGlobal is to develop framework, components, middleware, php extensions, code refactoring and performance optimization.</description>
+      <description>Lifelong Learning / Back-End Engineer / Expert in LEMP / High Proficient in Golang / Problem-solving.
+Hi, My name is Mingliang Tan, write in chinese is 谈明亮. Steven Tan is my english name. I am living and working in Beijing, China.
+Currently, I am working for DiDiGlobal from September 2016. Before that, I was working for Baidu from January 2013 to September 2016.
+I am Back-End Engineer with php and golang as primary skills.</description>
     </item>
     
     <item>
